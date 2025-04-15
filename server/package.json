@@ -1,0 +1,28 @@
+{
+  "name": "fix-node-client",
+  "version": "0.1.0",
+  "description": "FIX protocol Node.js client",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "keywords": [
+    "fix",
+    "node",
+    "express"
+  ],
+  "author": "Edy Ionescu",
+  "license": "MIT",
+  "dependencies": {
+    "@dotenvx/dotenvx": "^1.40.0",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "express-ws": "^4.0.0",
+    "log-to-file": "^3.0.3",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.9",
+    "rotating-file-stream": "^3.2.6"
+  }
+}
