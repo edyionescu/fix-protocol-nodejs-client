@@ -1,5 +1,8 @@
 # FIX protocol Node.js client
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/edyionescu/fix-protocol-nodejs-client)
+![GitHub License](https://img.shields.io/github/license/edyionescu/fix-protocol-nodejs-client)
+
 A Node.js FIX client that enables communication with FIX servers for trading and market data operations. It acts as an initiator in the FIX protocol, establishing connections, sending messages, and receiving responses according to the [`FIX 4.4 specification`](https://www.fixtrading.org/standards/fix-4-4/) standards.
 
 On the frontend, a React application is designed for manual testing of various FIX protocol endpoints, which can be helpful during the onboarding process.
