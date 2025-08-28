@@ -21,7 +21,7 @@
     "express": "^5.1.0",
     "express-ws": "^4.0.0",
     "log-to-file": "^3.0.3",
-    "morgan": "^1.10.0",
+    "morgan": "^1.10.1",
     "nodemon": "^3.1.10",
     "rotating-file-stream": "^3.2.6"
   }
