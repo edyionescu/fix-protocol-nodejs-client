@@ -15,14 +15,14 @@
   "author": "Edy Ionescu",
   "license": "MIT",
   "dependencies": {
-    "@dotenvx/dotenvx": "^1.49.0",
-    "body-parser": "^2.2.0",
+    "@dotenvx/dotenvx": "^1.51.1",
+    "body-parser": "^2.2.1",
     "cors": "^2.8.5",
     "express": "^5.1.0",
     "express-ws": "^4.0.0",
     "log-to-file": "^3.0.3",
     "morgan": "^1.10.1",
-    "nodemon": "^3.1.10",
+    "nodemon": "^3.1.11",
     "rotating-file-stream": "^3.2.7"
   }
 }
