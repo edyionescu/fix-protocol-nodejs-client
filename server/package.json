@@ -15,7 +15,7 @@
   "author": "Edy Ionescu",
   "license": "MIT",
   "dependencies": {
-    "@dotenvx/dotenvx": "^1.75.1",
+    "@dotenvx/dotenvx": "^2.19.1",
     "body-parser": "^2.3.0",
     "cors": "^2.8.6",
     "express": "^5.2.1",
